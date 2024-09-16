@@ -1,6 +1,6 @@
 {
     "global": {
-        "siteVersion": "v0.7.4"
+        "siteVersion": "v1.0.0-alpha"
     },
 
     "project-copy": {
@@ -15,23 +15,11 @@
         "progress": "Planning stage"
     },
 
-    "project-copy.html": {
-        "title": "Project copy placeholder",
-        "subtitle": "Project subtitle",
-        "downloadable": "0",
-        "code": "mySQL",
-        "initiated": "--",
-        "updated": "--",
-        "completed": "--",
-        "version": "v0.0",
-        "progress": "Planning stage"
-    },
-
-    "Calculator.html": {
+    "Calculator": {
         "title": "Calculator",
         "subtitle": "desktop application",
-        "downloadable": "0",
-        "code": "C++ & QML",
+        "downloadable": "1",
+        "code": "C++",
         "initiated": "--",
         "updated": "--",
         "completed": "--",
