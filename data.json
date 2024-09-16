@@ -1,0 +1,77 @@
+{
+    "global": {
+        "siteVersion": "v0.7.4"
+    },
+
+    "project-copy": {
+        "title": "Project copy placeholder",
+        "subtitle": "Project subtitle",
+        "downloadable": "0",
+        "code": "mySQL",
+        "initiated": "--",
+        "updated": "--",
+        "completed": "--",
+        "version": "v0.0",
+        "progress": "Planning stage"
+    },
+
+    "project-copy.html": {
+        "title": "Project copy placeholder",
+        "subtitle": "Project subtitle",
+        "downloadable": "0",
+        "code": "mySQL",
+        "initiated": "--",
+        "updated": "--",
+        "completed": "--",
+        "version": "v0.0",
+        "progress": "Planning stage"
+    },
+
+    "Calculator": {
+        "title": "Calculator",
+        "subtitle": "desktop application",
+        "downloadable": "0",
+        "code": "C++ & QML",
+        "initiated": "--",
+        "updated": "--",
+        "completed": "--",
+        "version": "--",
+        "progress": "Not Yet Started"
+    },
+
+    "Qt-Playground": {
+        "title": "Qt Playground",
+        "subtitle": "desktop & android application",
+        "downloadable": "0",
+        "code": "C++ & QML",
+        "initiated": "--",
+        "updated": "--",
+        "completed": "--",
+        "version": "--",
+        "progress": "Planning stage"
+    },
+
+    "website-desktop-app": {
+        "title": "Website Application",
+        "subtitle": "desktop application",
+        "downloadable": "0",
+        "code": "--",
+        "initiated": "--",
+        "updated": "--",
+        "completed": "--",
+        "version": "--",
+        "progress": "Planning stage"
+    },
+
+    "church-projection-project": {
+        "title": "Service Projector",
+        "subtitle": "desktop application",
+        "downloadable": "0",
+        "code": "--",
+        "initiated": "--",
+        "updated": "--",
+        "completed": "--",
+        "version": "--",
+        "progress": "Not Yet Started"
+    }
+}
