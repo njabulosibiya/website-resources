@@ -15,7 +15,7 @@
         "progress": "Planning stage"
     },
 
-    "Calculator": {
+    "calculator": {
         "title": "Calculator",
         "subtitle": "desktop application",
         "downloadable": "1",
@@ -27,7 +27,7 @@
         "progress": "Not Yet Started"
     },
 
-    "Qt-Playground": {
+    "qt-playground": {
         "title": "Qt Playground",
         "subtitle": "desktop & android application",
         "downloadable": "0",
