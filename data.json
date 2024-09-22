@@ -18,13 +18,13 @@
     "calculator": {
         "title": "Calculator",
         "subtitle": "desktop application",
-        "downloadable": "1",
+        "downloadable": "0",
         "code": "C++",
-        "initiated": "--",
-        "updated": "--",
+        "initiated": "22 Sep 2024",
+        "updated": "22 Sep 2024",
         "completed": "--",
         "version": "--",
-        "progress": "Not Yet Started"
+        "progress": "Planning stage"
     },
 
     "qt-playground": {
