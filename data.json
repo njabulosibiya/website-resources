@@ -1,6 +1,6 @@
 {
     "global": {
-        "siteVersion": "v1.0.0-alpha"
+        "siteVersion": "v0.8.0-alpha"
     },
 
     "project-copy": {
