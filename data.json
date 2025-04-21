@@ -1,6 +1,6 @@
 {
     "global": {
-        "siteVersion": "v0.8.3-beta"
+        "siteVersion": "v0.9.0-beta"
     },
 
     "project-copy": {
@@ -61,5 +61,15 @@
         "completed": "--",
         "version": "--",
         "progress": "Not Yet Started"
+    },
+
+    "An-Animation-Journey": {
+        "blog_initiated": "n/a",
+        "blog_updated": "n/a"
+    },
+
+    "A-Relationship-With-Mathematics": {   
+        "blog_initiated": "n/a",
+        "blog_updated": "n/a"
     }
 }
